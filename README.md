@@ -29,9 +29,9 @@
 
 ## 🌸 About Me
 
-🎓 I'm **Sukanya Rana**, a **Computer Science & Engineering student** passionate about building intelligent systems that combine **software, AI, and hardware automation**.
+🎓 I'm *Sukanya Rana, a **Computer Science & Engineering student* passionate about building intelligent systems that combine *software, AI, and hardware automation*.
 
-💡 I love turning real-world problems into **innovative technical solutions** through **Machine Learning, IoT, and Full Stack Development**.
+💡 I love turning real-world problems into *innovative technical solutions* through *Machine Learning, IoT, and Full Stack Development*.
 
 </td>
 
@@ -48,12 +48,12 @@
 
 # 🏆 Achievements
 
-🥇 **Winner — Idea Fusion 2025**
+🥇 *Winner — Idea Fusion 2025*
 (IoT Model Presentation) @ MCKV Institute of Engineering
 
- **Participant — Smart India Hackathon (SIH) 2025**
+ *Participant — Smart India Hackathon (SIH) 2025*
 
-🥉 **2nd Runner-Up — International Pi Day Competition**  @ MCKV Institute of Engineering
+🥉 *2nd Runner-Up — International Pi Day Competition*  @ MCKV Institute of Engineering
 
 ---
 
@@ -111,11 +111,11 @@
 
 <td width="75%">
 
-**Smart Lighting System for Elderly Care**
+*Smart Lighting System for Elderly Care*
 
-An intelligent lighting solution using **IR + LDR sensors** that automatically lights pathways at night, helping elderly individuals move safely while reducing unnecessary power usage.
+An intelligent lighting solution using *IR + LDR sensors* that automatically lights pathways at night, helping elderly individuals move safely while reducing unnecessary power usage.
 
-🔧 **Tech:** Arduino • IR Sensor • LDR • Embedded Systems
+🔧 *Tech:* Arduino • IR Sensor • LDR • Embedded Systems
 
 
 </td>
@@ -130,11 +130,11 @@ An intelligent lighting solution using **IR + LDR sensors** that automatically l
 
 <td width="75%">
 
-**IoT Smart Irrigation System**
+*IoT Smart Irrigation System*
 
-A smart irrigation system using **ESP32, soil moisture, temperature & humidity sensors** to automate watering decisions and conserve water while improving crop productivity, and reduce the agricultural wastage.
+A smart irrigation system using *ESP32, soil moisture, temperature & humidity sensors* to automate watering decisions and conserve water while improving crop productivity, and reduce the agricultural wastage.
 
-🔧 **Tech:** ESP32 • IoT • Soil Moisture Sensor • Blynk
+🔧 *Tech:* ESP32 • IoT • Soil Moisture Sensor • Blynk
 
 </td>
 </tr>
@@ -184,13 +184,13 @@ A smart irrigation system using **ESP32, soil moisture, temperature & humidity s
 
 ### 🌟 Developer Mindset
 
-I build with **logic**, design with **purpose**, and learn through **experimentation**.
+I build with *logic, design with **purpose, and learn through **experimentation*.
 
-> 💡 *Code is the tool. Thinking is the real skill.*
+> 💡 Code is the tool. Thinking is the real skill.
 
 🧩 Problem solver by habit
 🚀 Curious builder by nature
-🔍 Exploring **Machine Learning, IoT & Web Development**
+🔍 Exploring *Machine Learning, IoT & Web Development*
 
 ### 🌐 Let's Connect
 
@@ -214,7 +214,7 @@ I build with **logic**, design with **purpose**, and learn through **experimenta
 
 <br>
 
-✨ *Debugging life one line of code at a time.*
+✨ Debugging life one line of code at a time.
 
 </td>
 
@@ -224,5 +224,5 @@ I build with **logic**, design with **purpose**, and learn through **experimenta
 ---
 
 <p align="center">
-✨ *Curiosity builds code. Code builds the future.*
+✨ Curiosity builds code. Code builds the future.
 </p>
