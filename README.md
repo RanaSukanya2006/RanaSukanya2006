@@ -169,7 +169,7 @@ A smart irrigation system using *ESP32, soil moisture, temperature & humidity se
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Melomaniac006&theme=tokyo-night"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=RanaSukanya2006&theme=tokyo-night"/>
 
 </p>
 
