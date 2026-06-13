@@ -29,9 +29,9 @@
 
 ## 🌸 About Me
 
-🎓 I'm *Sukanya Rana, a **Computer Science & Engineering student* passionate about building intelligent systems that combine *software, AI, and hardware automation*.
+🎓 I'm **Sukanya Rana**, a **Computer Science & Engineering** student passionate about building intelligent systems that combine software, AI, and hardware automation.
 
-💡 I love turning real-world problems into *innovative technical solutions* through *Machine Learning, IoT, and Full Stack Development*.
+💡 I love turning real-world problems into innovative technical solutions through Machine Learning, IoT, and Full Stack Development.
 
 </td>
 
