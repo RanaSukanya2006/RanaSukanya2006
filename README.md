@@ -48,12 +48,12 @@
 
 # 🏆 Achievements
 
-🥇 *Winner — Idea Fusion 2025*
-(IoT Model Presentation) @ MCKV Institute of Engineering
+🥇 **Winner — Idea Fusion 2025**
+(IoT Model Presentation) *@ MCKV Institute of Engineering*
 
- *Participant — Smart India Hackathon (SIH) 2025*
+ **Participant — Smart India Hackathon (SIH) 2025**
 
-🥉 *2nd Runner-Up — International Pi Day Competition*  @ MCKV Institute of Engineering
+🥉 **2nd Runner-Up — International Pi Day Competition**  *@ MCKV Institute of Engineering*
 
 ---
 
