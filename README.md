@@ -158,14 +158,14 @@ A smart irrigation system using *ESP32, soil moisture, temperature & humidity se
 
 ### 📊 GitHub Development Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=Melomaniac006&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-stats.vercel.app/api?username=RanaSukanya2006&show_icons=true&theme=tokyonight&hide_border=true"/>
 
 </td>
 
 </tr>
 </table>
 
-## 📊 GitHub Activity Graph
+## 📈 GitHub Activity Graph
 
 <p align="center">
   <img 
@@ -174,7 +174,7 @@ A smart irrigation system using *ESP32, soil moisture, temperature & humidity se
   />
 </p>
 
-## 🧠 Beyond the Code
+# 🧠 Beyond the Code
 
 <table>
 <tr>
